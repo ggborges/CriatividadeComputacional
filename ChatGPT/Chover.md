@@ -57,3 +57,27 @@
     ................ script.rpy ..................
 
     Nesta versão atualizada, Maria e Aderaldo aparecem separadamente em duas labels adicionais, permitindo que eles tenham interações individuais com o leitor/jogador. Suas contribuições na história são destacadas de maneira mais distinta, refletindo as características mencionadas na letra da música "Chover (ou Invocação Para Um Dia Líquido)" do Cordel do Fogo Encantado. Isso proporciona uma experiência mais imersiva e enriquece a jornada do leitor/jogador com esses personagens.
+
+# Prompt
+
+    Você pode refazer a história, mudando a label de desenvolvimento_chuva para duas labels distintas que seja resultado das duas labels anteriores?
+
+# Output
+
+    Compreendi. Vou refazer a história, criando duas labels distintas que sejam resultados das labels anteriores ("ajudar_comunidade" e "explorar_paisagem"). Aqui está a versão atualizada:
+
+    ............. script.rpy ..............
+
+    Nesta versão atualizada, após a transição da chuva, foram adicionadas duas labels distintas: "ajudar_comunidade" e "explorar_paisagem". A label "ajudar_comunidade" representa a continuidade da história em que você e os moradores trabalham juntos para reconstruir casas, cultivar plantações e fortalecer a comunidade. A label "explorar_paisagem" destaca a jornada de exploração da nova paisagem com Maria, onde vocês descobrem as belezas revitalizadas pelo poder da chuva. Essas duas opções refletem os resultados das escolhas anteriores e oferecem diferentes desdobramentos para a história.
+
+# Prompt
+
+    Antes dos dois possíveis finais da história, adicione algo na história que retrate o final da música, onde o autor fala com o boiadeiro.
+
+# Output
+
+    Compreendi. Vou adicionar um trecho à história que retrate o final da música "Chover (ou Invocação Para Um Dia Líquido)" do Cordel do Fogo Encantado, em que o autor fala com o boiadeiro. Aqui está a versão atualizada:
+
+    ............ script.rpy .............
+
+    Nesta versão atualizada, após a transição da chuva, adicionamos a label "falar_boiadeiro" que retrata o encontro com o boiadeiro, conforme mencionado no final da música "Chover (ou Invocação Para Um Dia Líquido)" do Cordel do Fogo Encantado. Essa interação com o boiadeiro permite ao leitor/jogador expressar gratidão ou fazer perguntas sobre o futuro. A partir dessas escolhas, a história se desdobra em dois possíveis finais: "final_ajuda_boiadeiro" e "final_exploracao_boiadeiro".
